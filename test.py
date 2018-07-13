@@ -1,6 +1,6 @@
 """yeahboi"""
 def main():
-    """function"""
+    """eiei"""
     row, col = int(input()), int(input())
     matrix = list()
     for _ in range(row):
