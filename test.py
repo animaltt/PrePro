@@ -1,4 +1,4 @@
-"""main"""
+"""yeahboi"""
 def main():
     """function"""
     row, col = int(input()), int(input())
